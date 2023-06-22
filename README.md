@@ -13,5 +13,5 @@ This had been the second.
 ![image](https://github.com/PrivEimantas/kanjiNN/assets/112810472/784eae27-9bb7-4de9-a11d-2e6456e32959)
 
 
-The final version had looked like this, plan was to have more but due to time I could not complete this.
+The final version had looked like this, plan was to have more but due to time I could not complete this. The user could tell if it was correct or not so the model would learn over time to become more accurate.
 ![image](https://github.com/PrivEimantas/kanjiNN/assets/112810472/b9c70ab7-8964-4c4c-b2b4-a6f258c39e43)
